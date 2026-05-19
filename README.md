@@ -11,7 +11,7 @@ Hobbies:
 - Creative Writing
 - Running
 
-## Feel free to look at my pinned repositories! 
+## Feel free to look at my pinned projects below! 
 
 <!--
 **Adaeze-uo/Adaeze-uo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
