@@ -1,15 +1,12 @@
 ## Hey There! 👋
 
-I'm **Ugo Obihara**, a Final Year Computer Science Student studying at the **University of Reading**. I'm most interested in using using software engineering and data analysis to help people make better descions and solve small problems in my life. 
-
-I'm currently learning about Supabase for my project [Where's the Water](https://github.com/Adaeze-uo/Wheres-The-Water), a website where students cn view water fountains around The main university campus.
+I'm **Ugo Obihara**, a masters student studying Environmental Data Science and Machine Learning at **Imperial Colldge London**. During my course, I'm further developing my understanding of data science and machine learning, and applying my new knowledge to environmental challenges based on real world data. 
 
 The best place to reach me would be on LinkedIn.
 
-Hobbies:
-- Reading
-- Creative Writing
-- Running
+In my free time time, I enjoy reading, and creative writing. My current book book read is **Psycho-cybernetics** by Maxwell Maltz
+
+Whilst I'm not currently working on *Where's The Water* at the moment, please feel free to ask me about it.
 
 ## Feel free to look at my pinned projects below! 
 
