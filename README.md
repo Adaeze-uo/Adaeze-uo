@@ -4,7 +4,7 @@ I'm **Ugo Obihara**, a masters student studying Environmental Data Science and M
 
 The best place to reach me would be on LinkedIn.
 
-In my free time time, I enjoy reading, and creative writing. My current book book read is **Psycho-cybernetics** by Maxwell Maltz
+In my free time time, I enjoy reading, and creative writing. My current book book read is **Indistractable** by nir eyal
 
 Whilst I'm not currently working on *Where's The Water* at the moment, please feel free to ask me about it.
 
